@@ -46,5 +46,5 @@
 </p>
 
 <p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=asato-oi&show_icons=true&locale=en" alt="asato-oi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=asato-oi&show_icons=true&locale=en" alt="asato-oi" />
 </p>
