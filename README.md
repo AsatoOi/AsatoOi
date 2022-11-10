@@ -45,6 +45,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asato-oi&show_icons=true&locale=en&layout=compact" alt="asato-oi" />
 </p>
 
-<p>&nbsp;
+<!-- <p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=asato-oi&show_icons=true&locale=en" alt="asato-oi" />
-</p>
+</p> -->
