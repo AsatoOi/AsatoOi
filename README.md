@@ -7,7 +7,7 @@
 
 - Ask me : **react**
 
-- Love : **penguins 🐧**
+- Love : **penguins 🐧 & 방탄소년단**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
