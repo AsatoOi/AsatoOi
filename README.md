@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asato Oi</h1>
+<h1 align="center">Hi 👋, I'm Asato Ōi</h1>
 <h3 align="center">A junior front-end developer and UI designer</h3>
 
 - Learning : **three.js, webpack and react**
